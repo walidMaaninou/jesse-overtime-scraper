@@ -1,0 +1,7 @@
+streamlit
+pandas
+pillow
+pdf2image
+pytesseract
+openai
+python-dotenv
